@@ -1,0 +1,5 @@
+{
+    "require": {
+        "seguncodes/smyorm": "^1.0"
+    }
+}
